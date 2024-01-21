@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS people;
+DROP TABLE IF EXISTS gender;
+DROP TABLE IF EXISTS nationality;
